@@ -1,4 +1,4 @@
-o.ide in rust
+o.ide in rust<br>
 the amstrad ide like
 
 # depends
@@ -10,4 +10,4 @@ install cargo
 ## build
 ```shell
 cargo build
-``
+```

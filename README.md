@@ -9,5 +9,5 @@ raylib-rs 5.0.2
 install cargo 
 ## build
 ```shell
-cargo build
+cargo build --release
 ```
